@@ -1,0 +1,12 @@
+{
+  "name": "simulateur_cas_types_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "split.js",
+  "scripts": {
+    "split": "node split"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {}
+}
